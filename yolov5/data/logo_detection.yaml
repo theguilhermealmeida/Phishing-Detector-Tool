@@ -1,0 +1,88 @@
+path: ../data/logo_detection/
+train: images/train
+val: images/val
+test: images/test 
+
+    # number of classes
+
+    # class names
+names: 
+  0: alipay_logo 
+  
+  1: amazon_logo 
+  
+  2: amazon_text
+  
+  3: amazon_pay
+  
+  4: axis_bank
+  
+  5: millenium
+  
+  6: bank_of_america
+  
+  7: caixa_geral_de_depositos
+  
+  8: chase
+  
+  9: cibc
+  
+  10: continente
+  
+  11: credito_agricola
+  
+  12: ctt
+  
+  13: desjardins
+  
+  14: ebay
+  
+  15: facebook
+  
+  16: g2apay
+  
+  17: gmail
+  
+  18: gold_energy
+  
+  19: google
+  
+  20: google_drive
+  
+  21: h_and_m
+  
+  22: instagram
+  
+  23: spor_zone
+  
+  24: edp
+  
+  25: mastercard
+  
+  26: mbway
+  
+  27: novo_banco
+  
+  28: olx
+  
+  29: outlook
+  
+  30: paypal
+  
+  31: razopay
+  
+  32: snapchat
+  
+  33: stripe
+  
+  34: twitter
+  
+  35: visa
+  
+  36: wells_fargo
+  
+  37: whatsapp
+  
+  38: youtube
+  
+  39: zara 

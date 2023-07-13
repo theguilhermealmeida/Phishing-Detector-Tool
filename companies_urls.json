@@ -1,0 +1,35 @@
+{
+    "companies": [
+      {
+        "name": "coca_cola",
+        "websites": [
+            "https://www.cocacola.pt/home"
+        ]
+      },
+      {
+        "name": "fedex",
+        "websites": [
+            "https://www.fedex.com/pt-pt/home.html"
+        ]
+      },
+      {
+        "name": "ford",
+        "websites": [
+            "https://www.ford.pt/"
+        ]
+      },
+      {
+        "name": "pepsi",
+        "websites": [
+            "https://pepsimax.pt/"
+        ]
+      },
+      {
+        "name": "shell",
+        "websites": [
+            "https://www.shell.com/"
+        ]
+      }
+    ]
+  }
+  

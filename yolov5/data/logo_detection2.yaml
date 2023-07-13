@@ -1,0 +1,18 @@
+path: ../data/logo_detection
+train: images/train
+val: images/val
+test: images/test 
+
+    # number of classes
+
+    # class names
+names: 
+  0: coca_cola 
+  
+  1: fedex 
+  
+  2: ford 
+  
+  3: pepsi 
+  
+  4: shell 
